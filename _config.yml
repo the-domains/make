@@ -1,7 +1,7 @@
-name: null
+name: make
 favicon: null
-layout_spectrum: 0.8
-typography_spectrum: 0.5
+layout_spectrum: 0.612391322851181
+typography_spectrum: 0.1758384662680328
 cta:
   domain: null
   bucket: null
@@ -19,6 +19,7 @@ color:
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
+  rhythmicContrast: 0.36094202287495136
 purpose:
   - name: engagement
     item: null
