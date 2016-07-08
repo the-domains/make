@@ -2,6 +2,7 @@ name: make
 favicon: null
 layout_spectrum: 0.612391322851181
 typography_spectrum: 0.1758384662680328
+style: the-composer
 cta:
   domain: null
   bucket: null
